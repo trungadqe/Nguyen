@@ -1,0 +1,17 @@
+body{
+    text-align:center;
+    background: #ff00a8; background: linear-gradient(90deg,#ff00a8 0%, #0056ff 80%);
+    text-shadow: 4px 4px 2px rgba(248,0,218,0.6);
+    font-size:30px;
+  font-family: 'Akronim', cursive;
+   color:white;
+    
+  }
+  button{
+    background:cyan;
+    width:200px;
+    height:50px;
+    font-size:30px;
+    color:white;
+  
+  }
